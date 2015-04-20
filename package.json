@@ -19,12 +19,12 @@
     "test": "./node_modules/.bin/mocha"
   },
   "peerDependencies": {
-    "restify": "2.6.x - 2.8.x"
+    "restify": "^3.0.1"
   },
   "devDependencies": {
     "mocha": "~1.18.2",
     "should": "~3.3.1",
-    "restify": "~2.6.0",
+    "restify": "^3.0.1",
     "supertest": "~0.12.0"
   }
 }
